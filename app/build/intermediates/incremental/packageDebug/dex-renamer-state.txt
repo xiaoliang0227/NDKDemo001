@@ -1,0 +1,7 @@
+#Fri Sep 22 12:04:12 CST 2017
+base.0=/Users/zhaoyongliang/workspace/myandroid/NDKDemo001/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_32ddef2b97a2ed6f30b2733adc3c2aea8b6efe99
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/zhaoyongliang/workspace/myandroid/NDKDemo001/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_42d23d8310a5dde37fdca7d0138332b8f01c22da/classes.dex
+base.1=/Users/zhaoyongliang/workspace/myandroid/NDKDemo001/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_42d23d8310a5dde37fdca7d0138332b8f01c22da
+file.0=/Users/zhaoyongliang/workspace/myandroid/NDKDemo001/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_32ddef2b97a2ed6f30b2733adc3c2aea8b6efe99/classes.dex
